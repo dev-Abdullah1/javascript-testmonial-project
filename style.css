@@ -1,0 +1,67 @@
+.testmonial-heading.text-center.my-5 h4 {
+    color: #00ffe7;
+    font-weight: bold;
+}
+.card.text-center {
+    border: 1px solid;
+    display: inline-block;
+    width: 45%;
+    margin: auto;
+}
+
+a.btn.preBtn {
+    position: absolute;
+    margin-left: -12% !important;
+    display: block;
+    margin-top: 127px;
+    font-size: 29px;
+    color: #ffffff;
+    background: #eda115;
+    border-radius: 50px;
+    padding: 3px 13px;
+}  
+a.btn.nextBtn{
+    margin-left: 52%;
+    margin-top: 22%;
+    position: absolute;
+    font-size: 29px;
+    color: #ffffff;
+    background: #d9ff00;
+    background: #eda115;
+    border-radius: 50px;
+    padding: 3px 13px;
+}
+.queat-icon i {
+    font-size: 40px;
+    color: #b7b7b7;
+}
+i.fas.fa-quote-right {
+    margin-top: 143px !important;
+    display: block;
+    margin-left: -29px;
+    font-size: 40px;
+    color: #b7b7b7;
+    margin-bottom: 15px;
+}
+p.text-muted.my-5 {
+    font-size: 21px;
+    font-family: cursive;
+    text-align: unset;
+}
+
+img.rounded.mx-auto.d-block {
+    width: 28% !important;
+    border-radius: 100% !important;
+    margin-top: -46px;
+}
+.social-icon i {
+    font-size: 29px;
+    margin-top: 10px;
+    color: #ff0000;
+}
+h4:hover {
+    background-color: red;
+    font-size: 30px;
+    display: inline-block;
+    border-radius: 5px;
+}
